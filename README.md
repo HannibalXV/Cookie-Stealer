@@ -1,4 +1,4 @@
-# Cookie-Stealer
+# Cookies-Stealer
 Introducing my data management tool made in Python that efficiently collects user information from popular websites like Discord, Twitter, Instagram, and Netflix.
 This versatile tool extracts valuable data, including account tokens, payment details, and browser passwords. It organizes the information neatly into tables and sends it to a Discord webhook for easy management. While showcasing Python's automation capabilities, it's crucial to use my tool responsibly and adhere to ethical programming practices.
 # Requirements ⚡
